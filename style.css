@@ -286,8 +286,8 @@ html{
 }
 
 .Menu .column-area .column img{
-    width:14rem;
-    height: 14rem;
+    width:15rem;
+    height: 10rem;
     margin-bottom:1rem;
 }
 
@@ -468,9 +468,13 @@ html{
         align-items: center;
     }
     .Menu .column-area .column{
-        width:16rem;
+        width:15rem;
         text-align: center;
         
+    }
+
+    .Menu .column-area .column img{
+        height: 10rem;
     }
     .Contact .offset{
         display: grid;
@@ -525,6 +529,10 @@ html{
     .Menu .column-area .column{
         width: 24rem;
         text-align: center;
+    }
+
+    .Menu .column-area .column img{
+        height: 15rem;
     }
 
     .Contact .offset{
